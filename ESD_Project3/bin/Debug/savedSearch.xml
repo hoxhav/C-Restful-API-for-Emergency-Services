@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<data>
+  <row>
+    <OrganizationID>2</OrganizationID>
+    <type>Ambulance</type>
+    <Name>Some Ambulance</Name>
+    <Email>fred@rit.edu</Email>
+    <city>Rochester</city>
+    <zip>14620</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2</OrganizationID>
+    <type>Ambulance</type>
+    <Name>Some Ambulance</Name>
+    <Email>fred@rit.edu</Email>
+    <city>Rochester</city>
+    <zip>14534</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1</OrganizationID>
+    <type>Hospital</type>
+    <Name>Some Hospital</Name>
+    <Email>fred@rit.edu</Email>
+    <city>Pittsford</city>
+    <zip>14534</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1</OrganizationID>
+    <type>Hospital</type>
+    <Name>Some Hospital</Name>
+    <Email>fred@rit.edu</Email>
+    <city>West Lafayette</city>
+    <zip>47906</zip>
+    <CountyName>Tippecanoe</CountyName>
+    <State>IN</State>
+  </row>
+  <row>
+    <OrganizationID>2347</OrganizationID>
+    <type>Ambulance</type>
+    <Name>some new ambulance</Name>
+    <Email>fred@rit.edu</Email>
+    <city>Vestal</city>
+    <zip>13850</zip>
+    <CountyName>Broome</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2360</OrganizationID>
+    <type>Nursing Home</type>
+    <Name>some new nusring thing...</Name>
+    <Email>fred@rit.edu</Email>
+    <city>null</city>
+    <zip>null</zip>
+    <CountyName>null</CountyName>
+    <State>null</State>
+  </row>
+</data>
